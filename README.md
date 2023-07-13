@@ -1,2 +1,2 @@
-# repositoriohenry
-este es un repositorio del m02
+sebastian cañas
+este es un repositorio m02 despues de editarlo en mi escritorio
